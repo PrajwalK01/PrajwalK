@@ -1,8 +1,9 @@
 # Hi, I'm Prajwal 👋
 
-🧠 Designing and developing forward-thinking software solutions built for scale, reliability, and the future 
-🎯 Experienced in Flask, Firebase, Jinja2, and scalable web architectures 
+🧠 Designing and developing forward-thinking software solutions built for scale, reliability, and the future
+🎯 Experienced in Flask, Firebase, Jinja2, and scalable web architectures
 💻 Focused on creating maintainable, production-ready solutions with clean, modular architecture
+
 
 ---
 
