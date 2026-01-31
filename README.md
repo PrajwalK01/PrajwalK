@@ -6,11 +6,14 @@
 
 ---
 
-## 🔥 GitHub Stats
+### 🔥 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalK01&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalK01&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalK01&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalK01&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalK01&layout=compact&theme=tokyonight)
+
 
 ---
 
