@@ -53,23 +53,6 @@ Signal = Discipline / Noise
 
 ---
 
-## 📊 Advanced GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalK01&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalK01&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalK01&theme=tokyo-night&hide_border=true&line=22c55e&point=ffffff)
-
-</div>
-
----
-
 ## 🎮 Daily Quest (Gamified Progress)
 
 - ✅ **Code Quest**: Ship at least one meaningful commit
@@ -119,55 +102,17 @@ Signal = Discipline / Noise
 
 ---
 
-## 📌 Featured Projects
+## 🕳️ Black Hole Portal (Project Universe)
 
-<details open>
-<summary><strong>Enter Project Vault (Lab Archive)</strong></summary>
+_A dark, cosmic landing page that pulls people into my work: About, Projects, Research, and Experiments._
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 💬 Chat Server | Modular backend for real-time messaging | [View Repo](https://github.com/PrajwalK01/chat-server) |
-| 🌐 SocialSphere | Dynamic social media frontend | [View Repo](https://github.com/PrajwalK01/socialsphere) |
-| 👤 GitHub-Profile | GitHub homepage clone with metrics | [View Repo](https://github.com/PrajwalK01/github-profile) |
-| 📊 My-Portfolio | Personal site with animations & metrics | [View Repo](https://github.com/PrajwalK01/MY-Portfolio) |
-| 🧠 LeetClone | Coding challenge practice platform | [View Repo](https://github.com/PrajwalK01/leetclone) |
-| 📝 Attendance Clone | Backend module for attendance tracking | [View Repo](https://github.com/PrajwalK01/attendance-clone) |
+[![Enter the Black Hole](https://img.shields.io/badge/Enter%20the%20Black%20Hole-Project%20Universe-0b0b0f?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
 
-</details>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/PrajwalK01/PrajwalK01/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🧩 3D Contribution View
-
-![3D Contributions](https://github.com/PrajwalK01/PrajwalK01/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-## 🧪 Currently Building
-
-<details>
-<summary><strong>Live Missions (Active Experiments)</strong></summary>
-
-- 💬 Chat Server — Real-time messaging backend
-- 🌐 SocialSphere — Social media frontend
-- 👤 GitHub-Profile — Personalized GitHub homepage
-- 📝 Attendance Clone — Modular backend for tracking
-
-</details>
-
----
-
-## 🌐 Project Hub (Details Webpage)
-
-[![Project Hub](https://img.shields.io/badge/Project%20Hub-Visit%20Details-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com/projects)
-
-_Replace the link with your live project details page._
+**What this portal should include**
+- **About Me** — IIT Physics + Math student bio, mission, and focus areas
+- **Project Constellations** — cards for each project with screenshots + live demos
+- **Research Log** — notes, experiments, and learning drops
+- **Contact Dock** — links to socials and email
 
 ---
 
