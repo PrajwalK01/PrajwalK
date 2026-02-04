@@ -1,8 +1,4 @@
-# Hi, I'm Prajwal K 👋
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Futuristic+Software+Builder;Backend+Specialist+%7C+Flask+%7C+Firebase;AI+servers+%7C+Drones+%7C+Culture-driven+Games;Building+maintainable%2C+magical+software)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PrajwalK01&color=22c55e&style=flat-square)](https://github.com/PrajwalK01)
 [![Followers](https://img.shields.io/github/followers/PrajwalK01?style=social)](https://github.com/PrajwalK01)
@@ -12,9 +8,7 @@
 
 ---
 
-## 🚀 About Me
 
-- **Futuristic Software Builder** — AI servers, drones, culture-driven games
 - **Backend Specialist** — Flask, Firebase, scalable systems, modular architecture
 - **Mission** — Build maintainable, magical-feeling software that runs like clockwork
 
@@ -30,20 +24,13 @@
 
 ---
 
-## 📊 Advanced GitHub Analytics
+
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalK01&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalK01&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalK01&theme=tokyo-night&hide_border=true&line=22c55e&point=ffffff)
-
-</div>
 
 ---
 
@@ -54,7 +41,7 @@
 - ✅ **Learn Quest**: Study an algorithm or system design concept
 - ✅ **Share Quest**: Post a learning or demo
 
-> _“Level up every day — small moves, massive momentum.”_
+
 
 ---
 
@@ -76,10 +63,10 @@
 
 ---
 
-## 📌 Featured Projects
+## 🧪 Highlighted Work
 
-| Project | Description | Link |
-|--------|-------------|------|
+| Project | Focus | Link |
+|--------|-------|------|
 | 💬 Chat Server | Modular backend for real-time messaging | [View Repo](https://github.com/PrajwalK01/chat-server) |
 | 🌐 SocialSphere | Dynamic social media frontend | [View Repo](https://github.com/PrajwalK01/socialsphere) |
 | 👤 GitHub-Profile | GitHub homepage clone with metrics | [View Repo](https://github.com/PrajwalK01/github-profile) |
@@ -101,24 +88,11 @@
 
 ---
 
-## 🧪 Currently Building
-
-- 💬 Chat Server — Real-time messaging backend
-- 🌐 SocialSphere — Social media frontend
-- 👤 GitHub-Profile — Personalized GitHub homepage
-- 📝 Attendance Clone — Modular backend for tracking
-
----
-
-## ✨ Fun Facts
-
-- 🎧 Music fuels my code
-- 🏆 Hackathon enthusiast
-- 🤖 Bot builder for Discord, Telegram & AI assistants
-
----
 
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
