@@ -1,8 +1,4 @@
-# Prajwal K — Physics × Math × Software
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=IIT+Student+%7C+Physics+%2B+Mathematics;Futuristic+Software+Builder;AI+Systems+%7C+Drones+%7C+Culture-driven+Games;Research-minded+Engineering+%7C+Clean+Architecture)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PrajwalK01&color=22c55e&style=flat-square)](https://github.com/PrajwalK01)
 [![Followers](https://img.shields.io/github/followers/PrajwalK01?style=social)](https://github.com/PrajwalK01)
@@ -12,9 +8,7 @@
 
 ---
 
-## 🚀 Research Dossier
 
-- **IIT Student (Physics + Math)** — Engineering ideas with proofs, experiments, and clean systems
 - **Backend Specialist** — Flask, Firebase, scalable systems, modular architecture
 - **Mission** — Build maintainable, magical-feeling software that runs like clockwork
 
@@ -30,32 +24,13 @@
 
 ---
 
-## 📊 Analytics Console
+
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalK01&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalK01&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalK01&theme=tokyo-night&hide_border=true&line=22c55e&point=ffffff)
-
-</div>
-
----
-
-## 📐 Signal & Symmetry
-
-```
-Momentum = Consistency × Time
-ΔSkills = LearningRate · ΔDay
-Signal = Discipline / Noise
-```
-
-> _Treat every commit as an experiment. Measure. Improve. Repeat._
 
 ---
 
@@ -66,15 +41,7 @@ Signal = Discipline / Noise
 - ✅ **Learn Quest**: Study an algorithm or system design concept
 - ✅ **Share Quest**: Post a learning or demo
 
----
 
-## 🧭 Physics × Math Quest Board
-
-- 🟢 **Green Graph Streak**: Maintain daily commits (energy stays conserved)
-- 🧠 **Lab Challenge**: Build one experimental prototype weekly
-- ⚙️ **Systems Raid**: Refactor or optimize one service
-- 📐 **Proof Sprint**: Solve one math/CS proof or derivation weekly
-- 🛰️ **Research Drop**: Publish one learning note or demo
 
 ---
 
@@ -121,13 +88,6 @@ Signal = Discipline / Noise
 
 ---
 
-## 🕳️ Black Hole Portal (Project Universe)
-
-_A dark, cosmic landing page that pulls people into my work: About, Projects, Research, and Experiments._
-
-[![Enter the Black Hole](https://img.shields.io/badge/Enter%20the%20Black%20Hole-Project%20Universe-0b0b0f?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
-
----
 
 ## 🌐 Connect With Me
 
