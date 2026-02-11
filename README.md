@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Prajwal K</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • Java • TypeScript</h3>
+<h3 align="center">🌌 Believe in me. I build ideas into reality.</h3>
+<p align="center">Full Stack Developer | React • Node.js • Java • TypeScript</p>
 
-<p align="center">
-Building scalable web applications with clean architecture and strong backend foundations.
-</p>
 
 ---
+<p align="center">
+🔭 Full Stack Developer <br>
+🧠 Passionate about scalable systems & backend architecture <br>
+🌠 Exploring tech like it's the universe — infinite and expanding
+</p>
 
-## 🚀 About Me
 
-- 🔭 Currently building full-stack web applications using **React & Node.js**
-- 🌱 Learning **Advanced System Design & Cloud Deployment (AWS, Docker)**
-- 💬 Ask me about **JavaScript, React, REST APIs, Backend Architecture**
-- 🎯 Goal: Build scalable SaaS products and production-ready systems
-- ⚡ I enjoy solving complex problems using logic and mathematics  
+## 🌍 Portfolio
+
+✨ Explore my universe of projects  
+🔗 **[Visit My Portfolio](https://your-portfolio-link.com)**
 
 ---
 
@@ -39,40 +40,6 @@ Building scalable web applications with clean architecture and strong backend fo
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Full Stack SaaS Dashboard
-Built with React, Node.js, and MySQL  
-- JWT Authentication  
-- Role-based access control  
-- REST API integration  
-- Responsive UI with charts  
-
-🔗 [GitHub Repo](https://github.com/PrajwalK01/your-project-link)
-
----
-
-### 🔹 REST API Backend System
-Node.js + Express + MySQL  
-- Secure authentication  
-- CRUD operations  
-- MVC architecture  
-- Dockerized setup  
-
-🔗 [GitHub Repo](https://github.com/PrajwalK01/your-project-link)
-
----
-
-### 🔹 Java Backend Application
-Java-based backend service  
-- OOP architecture  
-- API development  
-- Database integration  
-
-🔗 [GitHub Repo](https://github.com/PrajwalK01/your-project-link)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -84,6 +51,13 @@ Java-based backend service
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalK01&layout=compact&theme=transparent" />
 </p>
 
+
+---
+
+## 🌌 Pinned Projects
+
+⬇️ Check below for my highlighted repositories.
+
 ---
 
 ## 🌐 Connect With Me
@@ -93,4 +67,4 @@ Java-based backend service
 
 ---
 
-⭐️ *Open to collaboration on interesting full-stack and SaaS projects.*
+✨ *Building in silence. Launching like rockets.*
