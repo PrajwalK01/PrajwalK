@@ -4,8 +4,7 @@
 
 
 ---
-🌌 Visit My Portfolio  
-👉 [Live Portfolio](https://prajwal-portfolio.vercel.app)
+
 
 <p align="center">
 🔭 Full Stack Developer <br>
@@ -14,11 +13,10 @@
 </p>
 
 
-## 🌍 Portfolio
+##  Visit My Portfolio  
 
 ✨ Explore my universe of projects  
-🔗 **[Visit My Portfolio](https://your-portfolio-link.com)**
-
+🔗 **[Live Portfolio](https://prajwal-portfolio.vercel.app))** 
 ---
 
 ## 🛠 Tech Stack
