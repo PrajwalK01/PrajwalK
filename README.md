@@ -4,6 +4,9 @@
 
 
 ---
+🌌 Visit My Portfolio  
+👉 [Live Portfolio](https://prajwal-portfolio.vercel.app)
+
 <p align="center">
 🔭 Full Stack Developer <br>
 🧠 Passionate about scalable systems & backend architecture <br>
