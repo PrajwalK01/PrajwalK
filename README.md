@@ -13,11 +13,12 @@
 </p>
 
 
-##  Visit My Portfolio  
+<p align="center">
+  <a href="https://prajwal-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel">
+  </a>
+</p>
 
-✨ Explore my universe of projects  
-🔗 **[Live Portfolio](https://prajwal-portfolio.vercel.app))** 
----
 
 ## 🛠 Tech Stack
 
